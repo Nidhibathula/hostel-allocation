@@ -6,6 +6,7 @@ Students may be assigned wrong rooms, or data may get misplaced when handled on 
 The objective of this project is to automate the room allocation process using Java.
 
 ## Scope of the Project
+
 - The system should take a student ID as input.
 - It should check if the student exists in the system.
 - If valid, the system should display the student's name and allocate an available room.
