@@ -4,7 +4,7 @@
 
 This is a simple Java-based console application that helps manage hostel room allocation for students.
 
-## Features
+Features
 Add student details (ID, Name, Branch)
 Automatically allocate available hostel rooms
 Prevents duplicate allocation
