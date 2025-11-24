@@ -1,6 +1,5 @@
 # hostel-allocation
-Hostel room allocating system
-Hostel Room Allocation System 
+Hostel room allocating system 
 
 A simple Java console-based application to manage hostel room assignments.
 This system allows adding students, adding rooms, allocating rooms, and vacating rooms.
