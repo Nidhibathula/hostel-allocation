@@ -19,7 +19,6 @@ This is a simple Java-based console application that helps manage hostel room al
 1. Download all .java files.
 2. Open Terminal or VS Code.
 3. Run the following commands:
-
    javac *.java
    java Main
 
@@ -32,4 +31,4 @@ This is a simple Java-based console application that helps manage hostel room al
 
 ## Developed By
 Bathula Nidhi – B.Tech CSE  
-Hostel Room Allocation Mini Project (Internet & Web Programming)
+Hostel Room Allocation Mini Project 
