@@ -1,6 +1,6 @@
 # hostel-allocation
 
-Hostel Room Allocation System
+# Hostel Room Allocation System
 
 Overview
 This project is a simple Java-based system that helps in allocating hostel rooms to students. Instead of doing the process manually, the program checks the student ID and assigns a room automatically. It is created as part of the Internet and Web Programming course project.
