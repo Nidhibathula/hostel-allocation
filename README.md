@@ -1,27 +1,34 @@
 # hostel-allocation
-Hostel room allocating system 
 
-A simple Java console-based application to manage hostel room assignments.
-This system allows adding students, adding rooms, allocating rooms, and vacating rooms.
+# Hostel Room Allocation System
 
-Features:
-Add Student
-View Students
-Add Hostel Room
-View Rooms
-Allocate Room to Student
-Vacate Room
+This is a simple Java-based console application that helps manage hostel room allocation for students.
 
+## Features
+Add student details (ID, Name, Branch)
+Automatically allocate available hostel rooms
+Prevents duplicate allocation
+Displays suitable messages when no rooms are available
 
-Technologies Used:
+## Tech Used
 Java
-OOP
+Core OOP Concepts (Classes, Objects)
 Collections (ArrayList)
-Basic modular design
 
+## How to Run
+1. Download all .java files.
+2. Open Terminal or VS Code.
+3. Run the following commands:
+   javac *.java
+   java Main
 
-How to Run
-1. Install Java 8+
-2. Place all .java files inside src/
-3. Compile: javac *.java
-4. Run: java Main
+## Project Structure
+Main.java→ Main menu & execution flow  
+Student.java → Student data model  
+Room.java → Room data model  
+StudentService.java → Handles student operations  
+RoomService.java → Handles room allocation  
+
+## Developed By
+Bathula Nidhi – B.Tech CSE  
+Hostel Room Allocation Mini Project
