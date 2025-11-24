@@ -27,7 +27,15 @@ This is a simple Java-based console application that helps manage hostel room al
 - Student.java → Student data model  
 - Room.java → Room data model  
 - StudentService.java → Handles student operations  
-- RoomService.java → Handles room allocation  
+- RoomService.java → Handles room allocation
+
+## Instructions for Testing
+- Register a new student  
+- Allocate a room  
+- Verify room availability changes  
+- Update student details  
+- Delete a record to check data removal  
+- Test with multiple students
 
 ## Developed By
 Bathula Nidhi – B.Tech CSE  
