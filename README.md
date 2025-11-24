@@ -31,5 +31,5 @@ This is a simple Java-based console application that helps manage hostel room al
 - RoomService.java → Handles room allocation  
 
 ## Developed By
-Lavender – B.Tech CSE  
+Bathula Nidhi – B.Tech CSE  
 Hostel Room Allocation Mini Project (Internet & Web Programming)
